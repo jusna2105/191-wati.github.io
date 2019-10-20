@@ -1,0 +1,30 @@
+
+*{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+  
+body{
+  background:#e69090a8;
+  margin: 0;
+}
+h1{
+  font-size: 20px;
+  margin: 0;
+}
+  
+#wrapper{
+  width: 900px;
+  margin: auto;
+  background-color:rgba(238, 149, 149, 0.712);
+  border-radius: 60px;
+  font-family: sans-serif;
+}
+#header{
+  height: auto;
+  background: transparent;
+  margin-top: 20%;
+}
+
+body{background-image:url(HH.jpg); background-size:cover}
+#test{padding:20px}
